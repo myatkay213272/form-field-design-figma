@@ -17,7 +17,7 @@ This project contains a form field UI design created in Figma. It showcases inpu
 
 If you'd like to import the `.fig` file into your own Figma workspace, download the file from this repo (if available), or use the Figma link above.
 
-[View design](.....)
+[View design](./Textinput.png)
   
 ## 👤 Author
 
